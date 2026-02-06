@@ -1,0 +1,15 @@
+{      "Host": "localhost",
+
+  "Servers": {
+    "1": {
+      "Name": "Online Shopping Database",
+      "Group": "Servers",
+      "Port": 5432,
+      "Username": "postgres",
+      "Password": "postgres",
+      "Host": "online-shopper-postgres",
+      "SSLMode": "prefer",
+      "MaintenanceDB": "FinalProjectDb"
+    }
+  }
+}
